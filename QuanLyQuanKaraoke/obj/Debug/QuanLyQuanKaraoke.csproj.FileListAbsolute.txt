@@ -1,0 +1,13 @@
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FDangNhap.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FDoiMatKhau.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FNhanVien.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FNhapHang.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.FQuanLy.resources

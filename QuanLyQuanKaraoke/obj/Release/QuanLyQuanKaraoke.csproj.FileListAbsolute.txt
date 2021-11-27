@@ -1,0 +1,13 @@
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Release\QuanLyQuanKaraoke.exe.config
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Release\QuanLyQuanKaraoke.exe
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Release\QuanLyQuanKaraoke.pdb
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.FDoiMatKhau.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.FNhanVien.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.FNhapHang.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.FDangNhap.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.FQuanLy.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.exe
+D:\Hieu\Hoc\Visual Studio 2012\VS\Save\QuanLyQuanKaraoke\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Release\QuanLyQuanKaraoke.pdb
